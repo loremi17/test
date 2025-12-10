@@ -8,8 +8,8 @@ body {
   margin: 0;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Serif",
     sans-serif;
-  background: #0f172a;
-  color: #e5e7eb;
+  background: #F5F5DC;
+  color: #111214;
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -34,7 +34,7 @@ h1 {
 
 p {
   margin-bottom: 1.5rem;
-  color: #cbd5f5;
+  color: #111214;
 }
 
 button {
@@ -44,8 +44,8 @@ button {
   padding: 0.7rem 1.6rem;
   font-size: 0.95rem;
   font-weight: 600;
-  color: #0f172a;
-  background: #22c55e;
+  color: #d7d9e0;
+  background: #b906214b;
   transition: background 0.15s ease, transform 0.1s ease,
     box-shadow 0.1s ease;
   box-shadow: 0 6px 14px rgba(34, 197, 94, 0.35);
